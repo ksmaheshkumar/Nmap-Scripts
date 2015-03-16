@@ -110,5 +110,5 @@ Nmap done: 1 IP address (1 host up) scanned in 0.09 seconds
 ```
 
 **BLOG REFERENCES**<br />
-http://blog.gdssecurity.com/labs/2015/3/11/nimbus-protocol-enumeration-with-nmap.html
+http://blog.gdssecurity.com/labs/2015/3/16/nimbus-protocol-enumeration-with-nmap.html
 
